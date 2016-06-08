@@ -45,7 +45,7 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 > intended users: anybody that wants to have a better web experience and less B.S.
 
-#### Final thought
+# Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
 
 # License
