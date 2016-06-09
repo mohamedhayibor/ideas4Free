@@ -61,7 +61,7 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 > intended users: For Go Green individuals, energy poor environments
 
-#### 15. Head device that writes out your thoughts (text, word format) and saves in a private cloud. + The ability the snippets by thoughts. (maybe the neural lace buzz will make it happen)
+#### 15. Head device that writes out your thoughts (text, word format) and saves in a private cloud. + The ability to access the snippets by thoughts. (maybe the neural lace buzz will make it happen)
 
 > intended users: just about anybody
 
