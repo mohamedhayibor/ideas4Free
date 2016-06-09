@@ -45,6 +45,46 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 > intended users: anybody that wants to have a better web experience and less B.S.
 
+#### 11. App that helps user prioritize between tasks (figures the most important ones by wieghting impact, compounding ...)
+
+> intended users: High performing individuals
+
+#### 12. App or device that analyze user's brain waves and auto plays piece of music that has the highest probability of triggering peak state (auto-tunes volume as well).
+
+> intended users: High performing individuals
+
+#### 13. watch that lights up (range of red and green) the probability of a bike accident when crossing against red lights. (perhaps will integrate the driveless car technology to analyze traffic before every cross light)
+
+> intended users: For bike rides in the habit of crossing red lights.
+
+#### 14. Underwear or suit that converts heat into power for small devices (phones, iot and other devices...)
+
+> intended users: For Go Green individuals, energy poor environments
+
+#### 15. Head device that writes out your thoughts (text, word format) and saves in a private cloud. + The ability the snippets by thoughts. (maybe the neural lace buzz will make it happen)
+
+> intended users: just about anybody
+
+#### 16. App that drills down user on questions (why, hows...) for him or her to get clarity of intent and be able to make better decisions.
+
+> intended users: For individuals making critical decisions on a daily basis.
+
+#### 17. Head device (or even pill) that filters out toxins from our brains so that we don't get the need to go to sleep.
+
+> intended users: High performing individuals
+
+#### 18. Pill that provides all essential nutrients for the brain so people could fast for 3 / 4 day or a week and still get high cognitive performance.  
+
+> intended users: High performing individuals
+
+#### 19. Device that block out outside noise or hyper tunes them for super low noise (not hearable to humans) automatically (triggered by thoughts or brain waves)
+
+> intended users: individuals who avoid distractions at all cost
+
+#### 20. Pill that eliminate sexual desires when the user is on a high concentration (focus) mode.
+
+> intended users: High performing individuals
+
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
 
