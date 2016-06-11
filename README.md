@@ -85,6 +85,33 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 > intended users: High performing individuals
 
+#### 21. Create device that downloads someone's entire memory (with possibility to strip out the bad parts). If we figure out how to install into another person's brain even better. We would save individuals hours of toiling to learn subject already studied and well understood by humans. (Huge saving in time)
+
+> intended users: Just about anybody
+
+#### 22. Create a device that installed in the brain that will serve as identification. (no remembering password, visas, passport, or ids) - see: (hardProblems/citizenshipProblem)
+
+
+#### 23. Build an island that fully implements a distributed system in whatever global decisions (computer aided weighting system):  design, food, buildings, global agenda ... (better version of capitalism and democracy combined, avoid any type of socialism we experienced in the past)
+
+> intended users: individuals sick of the current political systems
+
+#### 24. Build a Hologram technology that can be projected into any surface (watch, walls, table, anywhere) "VR without wearing a mask"
+
+#### 25. Software technology that continuously goes through all open source projects for automated testing (bugs, security vulnerabilities - no need for writing manual tests anymore)
+
+#### 26. Device or technology that gets rid of natural ovulation (The male and female will provide respective bank of spermatozoids and ovules > only the best cells will be matched and feconded with - no more infants with disabilities - healthier humans - 100x improvements)
+
+#### 27. Create technology that can bear an egg all the way to maturation (whole 9 months - gain of productivity for all females)
+
+#### 28. Create alternatives to sexual intercourse (device that will activate appropriate parts of the brain for that need - no more STDs or AIDS after a generation)
+
+#### 29. technology that sucks out all nutrients out of every ounce of a dead body for better agriculture or transmutation in energy.
+
+#### 30. Create an alternate shower technology: instead of wasting of gallons of water, high pressurized humid air will be used. (gain of productivity as well: will potentially last for 30 seconds)
+
+#### 31. Create technology that can transfer one's consciousness to younger clones. (bodies will be just vehicles)
+
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
 
