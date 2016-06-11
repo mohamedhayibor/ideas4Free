@@ -4,7 +4,7 @@ Execution is everything. Cliche but true. Do whatever you want with them. :sungl
 # Why
 I stall on ideas. So I have decided to open source all of them (totally free). It is more pressure on my end to implement things quickly because the world knows about it already. You might notice that some of them are not fully described, use your imagination and engineering genius to bend, morph and bring them to reality.
 
-Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls, neural devices ...). I intend on pushing as much as ideas as possible. Hopefully some of them would still potential after I die.
+Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls, neural devices ...). I intend on pushing as much as ideas as possible. Hopefully some of them would still have potential after I die.
 
 
 # ideas
