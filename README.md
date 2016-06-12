@@ -112,6 +112,28 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 #### 31. Create technology that can transfer one's consciousness to younger clones. (bodies will be just vehicles)
 
+#### 32. Create a technology that can accelerate our brain thinking (ie: increasing its clock time)
+
+#### 33. Create a technology that makes the brain more Non-blocking IO: When humans waste a lot of time worrying some BS (what the people at the coffee shop think of us, ....). In brief we are pretty bad at thinking straight when we are in fear, stressed, upset. The technology will make us no get "blocked" on those negative moments.
+
+#### 34. Create a device that automatically sends all our slow thinking (complex computations) to a computer. We will get to maximize our fast thinking potential.
+
+#### 35. Create technology that allow any humans to connect to any public camera or drone (extreme bird view...) and see as what the device can capture. (We already have the tech to make it a reality, maybe we will just spend more time designing the distributed system algorithms)
+
+#### 36. Make the brain more powerful and making it consume more % energy away from the other parts. (Could move more towards bionic arms, legs)
+
+#### 37. Technology that forces to zoom in and out of focus in order to solve hard problems. (Will systematically make think at lower or higher level of abstractions - maybe cut the time required to solve a problem by a factor of 10)
+
+#### 38. Create a thought simulation (provocation) machine so that people don't have to take drugs to deal with nasty things such as depression, stress, anger, insecurities.
+
+#### 39. Technology that could effectively freeze the body when we are sleeping. (Maybe give us younger bodies - ability to live longer)
+
+#### 40. Create software that could compute shortest paths (Traveling Salesman Problem) the most efficiently for 3d directions. ie: traffic, cruise control of drones, shared flying cars (cabs), and other flying vehicles.
+
+#### 41. Create a distributed system (thinking as one mind) that will monitor all agriculture plants live at matter of minutes providing water, nutrients when necessary. What's the big vision here?
+
+> We could have a system that monitors the aggregate data the live data of what people are buying and shaping production of food and other products accordingly. (Balancing supply and demand at matters of seconds - milliseconds)
+
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
 

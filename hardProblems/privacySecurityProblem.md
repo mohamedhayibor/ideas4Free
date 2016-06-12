@@ -10,6 +10,6 @@ What if we went nuts on distributed (resilient) systems and made everything publ
 
 From the digital services to your physical activity, all the way, everything public.
 
-> Afterall if you are an honest individual, you have nothing to hide.
+> After all if you are an honest individual, you have nothing to hide.
 
 If I were to bet what our society would look like in 300 years or 500 years. It would be close to this or radically the opposite where everything is encrypted. The only problem that a resilient system of preventions are set in place as a failure would be terrible to someone safety as our lives are moving more towards digital.
