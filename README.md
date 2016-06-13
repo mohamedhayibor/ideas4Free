@@ -134,6 +134,14 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 > We could have a system that monitors the aggregate data the live data of what people are buying and shaping production of food and other products accordingly. (Balancing supply and demand at matters of seconds - milliseconds)
 
+#### 42. Create submarine propellers for Island, floating cities and other energy poor environments.
+
+#### 43. Create a software that could transpile any source code (any language) into a common language (JS, Python...)
+
+#### 44. Create technology that gets rid of all possible wires. (doable with current tech)
+
+#### 45. Create technology that could transfer one's consciousness to any other cyborg (computer, machine) to any parts of the world or planets as long as we have connectivity. (The faster we could transfer data, the faster we could travel)
+
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
 
