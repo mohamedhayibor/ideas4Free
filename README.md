@@ -142,6 +142,15 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 #### 45. Create technology that could transfer one's consciousness to any other cyborg (computer, machine) to any parts of the world or planets as long as we have connectivity. (The faster we could transfer data, the faster we could travel)
 
+#### 46. Create technology that processes all images from satellites for key metrics such as rain, transportation...
+
+#### 47. Create technology that could minimize doubts (Less wasted time - dabbling around)
+
+#### 48. Create composable apartments into flexible buildings.
+
+#### 49. Create drug that could keep us awake for a week.
+
+
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
 
