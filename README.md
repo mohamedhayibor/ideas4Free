@@ -150,6 +150,8 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 #### 49. Create drug that could keep us awake for a week.
 
+#### 50. 3d printer that prints your everyday items (clothes, shoes, phone, watch, hats...). Designers might sell unique designs (economies of scale).
+
 
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
