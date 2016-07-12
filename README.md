@@ -89,7 +89,7 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 > intended users: Just about anybody
 
-#### 22. Create a device that installed in the brain that will serve as identification. (no remembering password, visas, passport, or ids) - see: (hardProblems/citizenshipProblem)
+#### 22. Create a device that gets installed in the brain that will serve as identification. (no remembering password, visas, passport, or ids) - see: (hardProblems/citizenshipProblem)
 
 
 #### 23. Build an island that fully implements a distributed system in whatever global decisions (computer aided weighting system):  design, food, buildings, global agenda ... (better version of capitalism and democracy combined, avoid any type of socialism we experienced in the past)
