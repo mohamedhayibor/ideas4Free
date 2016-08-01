@@ -152,6 +152,8 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 #### 50. 3d printer that prints your everyday items (clothes, shoes, phone, watch, hats...). Designers might sell unique designs (economies of scale).
 
+#### 51. Create a platform for cross-disciplinary crash courses. In this era, people will be switching from different domains at least 4. An example would a software engineer wanting to transition to electrical engineer to get a leverage from both field to build something. The crash courses could be designed in a way that they could be done in a week. "Learning designed for adults"
+
 
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
