@@ -41,10 +41,10 @@ If this idea is successfully implemented in Dakar (Senegal), the next markets to
 
 Grounded truths for the next 10, 20 years:
 
-1- Customers will want their deliveries to be faster and faster.
-2- Customers will want more and more exact (precise, accurate) measurements.
-3- Customers will want better ways to see how a dress will look on them before purchase. (immersive experience)
-4- Customers will want less and less time consuming process in choosing and getting their custom dresses.
+1. Customers will want their deliveries to be faster and faster.
+2. Customers will want more and more exact (precise, accurate) measurements.
+3. Customers will want better ways to see how a dress will look on them before purchase. (immersive experience)
+4. Customers will want less and less time consuming process in choosing and getting their custom dresses.
 
 Other implementations (in 5 - 10 years):
 As virtual and augmented reality mature, their implementations will add on and give the best user experience possible.
