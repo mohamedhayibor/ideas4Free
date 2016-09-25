@@ -40,6 +40,7 @@ Long term:
 If this idea is successfully implemented in Dakar (Senegal), the next markets to take over, are the major West African cities. If we get to the ones in Nigeria and have more than 30% penetration, this company will be worth more than a billion dollars, after that the sky is the limit.
 
 Grounded truths for the next 10, 20 years:
+
 1- Customers will want their deliveries to be faster and faster.
 2- Customers will want more and more exact (precise, accurate) measurements.
 3- Customers will want better ways to see how a dress will look on them before purchase. (immersive experience)
