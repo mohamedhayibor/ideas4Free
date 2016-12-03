@@ -126,7 +126,7 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 #### Create an augmented reality tool that allows you to visualize source code in 3d. Maybe even write source code in 3d.
 
-> Feasable as you some programming languages are entirely made of Objects (Javascript, Dart, ...) Then you can just design software not just in triangle (2d) but in a pyramid paradigm (3d)
+> Feasable as you some programming languages are entirely made of Objects (Javascript, Dart, ...) Then you can just design software not just in triangle (2d) but in a pyramid paradigm (3d). A good starting point: [Skov - visual programming environment](http://skov.software/en/).
 
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
