@@ -134,6 +134,8 @@ Also the term `App` here, can signify mobile, desktop apps (even VR, Iot, walls,
 
 #### [Redefining How contractors get paid](fleshedoutIdeas/Redefining_How_Contractors_Get_Paid.md)
 
+#### [Hacker Residences](fleshedoutIdeas/Cultural-Hacker-Residences.md)
+
 # Final thought
 I will be more than happy if you implement any of them and make billions or just for fun.
 
