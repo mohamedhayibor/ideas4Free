@@ -20,15 +20,11 @@ The application parses the git commits then transfers the amounts for any awaite
 
 #### Implementation
 
-This could be built on top of Github as it already has the peer-review and other useful features.
+This could be built on top of Github as it already has peer-review, webhooks, and other useful features.
 
-#### Rollout strategy
+With code analysis tools and the history of tasks accomplished by every contracter. Step one, goals/milestone generation, could be semi-automated.
 
-Start with contractors then employees.
-
-Helper: With code analysis tools and the history of tasks accomplished by every employee/contracter. Step one, goals/milestone generation, could be semi-automated.
-
-#### Vision for the future:
+#### Possibilities:
 - Companies and individuals will no longer be reactive. They will be forward looking.
 - This could be extended to how open source software gets developed.
 - Automates bug bounties
