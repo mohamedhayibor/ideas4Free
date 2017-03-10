@@ -20,3 +20,14 @@ At the very least, some young startups will flock to your residence. If it could
 I could envision myself hopping every 3 month at a residence in Eastern Europe, South America, West Africa, Asia.
 
 > This would blend in the best of both worlds, getting to travel and at the same time doing solid work for your startup, contract or freelancing while getting constantly inspired by new cultures, people and places.
+
+## Why Now?
+
+The Global forces are multiple: economic, political, artistic.
+
+* economic: living in cities such as San Francisco has almost become unreasonable due to high rent and other living expenses
+* technological: high speed wifi, drastic improvement in living conditions (in poor countries)
+* cultural: rich local culture
+* environment: beautiful weather
+
+> The main risk: if target countries become more restrictive about visa issues.
